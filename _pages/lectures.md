@@ -3,13 +3,13 @@ layout: page
 permalink: /lectures/
 title: lectures
 description:
-years: [Day 0, Day 1, Day 2, Day 3]
+years: [Day 1, Day 2, Day 3]
 nav: true
 nav_order: 2
 ---
-A list of publications in journals and conference proceedings, by year of publication for published articles, and year of submission for preprints. A list of works is also available on [Google Scholar](https://scholar.google.com/citations?user=mghzVekAAAAJ&hl=en).
+Copyright (c) 2024 Stefan Vlaski and Ali H. Sayed.
 
-*Copyright note.* This material is presented here to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by the copyright holders. All persons accessing this information are expected to adhere to the terms and constraints invoked by each case’s copyright. Unless permitted by the license, these works may not be copied or re-posted without explicit permission.
+The material on this website is made available to attendees of the IEEE ICASSP 2024 Short Course ``Multi-Agent Optimization and Learning'' for personal use. It may not be copied, modified, or distributed without written consent by the instructors.
 
 <!-- _pages/publications.md -->
 <div class="publications">
