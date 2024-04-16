@@ -1,0 +1,15 @@
+latexmlpost (LaTeXML version 0.8.8) paginating /Users/svlaski/DistributedOptimizationAndLearning/web/auxdir/template.xml
+(post-processing...
+(Split index.html processing...
+[not split]
+ 0.00 sec)
+(Scan index.html processing...
+Scan: DBStatus: 8/9 objects
+ 0.00 sec)
+(CrossRef index.html processing... 0.00 sec)
+(MathML::Presentation[w/TeXMath] index.html processing...
+converted 1 Maths
+ 0.00 sec)
+(XSLT[using bookml/XSLT/bookml-html5.xsl] index.html processing... 0.03 sec)
+(Writer index.html processing... 0.00 sec) 0.04 sec)
+Postprocessing complete No obvious problems (reqd. 0.18s)

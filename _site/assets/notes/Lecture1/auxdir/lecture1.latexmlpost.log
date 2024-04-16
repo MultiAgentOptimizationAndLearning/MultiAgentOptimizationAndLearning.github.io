@@ -1,0 +1,39 @@
+latexmlpost (LaTeXML version 0.8.8) paginating /Users/svlaski/DistributedOptimizationAndLearning/web/Lecture1/auxdir/lecture1.xml
+(post-processing...
+(Split index.html processing...
+ [Split into in 3 TOCs]
+ 0.01 sec)
+(Scan index.html processing...
+Scan: DBStatus: 3/682 objects
+ 0.00 sec)
+(Scan S1.html processing...
+Scan: DBStatus: 59/682 objects
+ 0.01 sec)
+(Scan S2.html processing...
+Scan: DBStatus: 363/682 objects
+ 0.05 sec)
+(CrossRef index.html processing... 0.00 sec)
+(CrossRef S1.html processing... 0.01 sec)
+(CrossRef S2.html processing...
+Warning:expected:ids Missing Target for Label: LABEL:eq:minimize_log_likelihoods,LABEL:sec:estimates_using_a_batch_of_samples
+	In Post::CrossRef[@0x7fdc93ea0248] ->process
+ 0.03 sec)
+(Graphics S1.html processing...
+Error:imageprocessing:imageclass No image processing module found to convert types
+	Skipping Inference_Fig1_new.eps=>png.
+	Please install one of: Graphics::Magick,Image::Magick
+	In Post::Graphics[@0x7fdc8482a818] ->transformGraphic
+ 0.02 sec)
+(MathML::Presentation[w/TeXMath] S1.html 35 to process...
+converted 35 Maths
+ 0.03 sec)
+(MathML::Presentation[w/TeXMath] S2.html 91 to process...
+converted 91 Maths
+ 0.23 sec)
+(XSLT[using bookml/XSLT/bookml-html5.xsl] index.html processing... 0.04 sec)
+(XSLT[using bookml/XSLT/bookml-html5.xsl] S1.html processing... 0.05 sec)
+(XSLT[using bookml/XSLT/bookml-html5.xsl] S2.html processing... 0.07 sec)
+(Writer index.html processing... 0.00 sec)
+(Writer S1.html processing... 0.00 sec)
+(Writer S2.html processing... 0.00 sec) 0.57 sec)
+Postprocessing complete 1 warning; 1 error (See auxdir/lecture1.latexmlpost.log) (reqd. 0.75s)
