@@ -1,1 +1,1 @@
-My personal website based on the [al-folio](https://github.com/alshedivat/al-folio) theme.
+Course website for the ICASSP 2024 Short Course "Multi-Agent Optimization and Learning".
